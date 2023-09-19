@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(237, 226, 208);
+  }
+  
+  h1 {
+    color: rgb(3, 181, 60);
+    margin-left: 20px;
+   
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  p {
+    font-size: 20px;
+  }
+.w3-tag{background-color:#530071;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}.w3-badge{border-radius:50%}
